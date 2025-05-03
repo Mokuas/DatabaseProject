@@ -1,0 +1,5 @@
+libraries: File > Project Structure > Platform Settings > Global Libraries > + > From Maven
+
+com.h2database:h2:2.3.232
+org.hibernate.orm:hibernate-core:6.5.2.Final
+org.junit.jupiter:junit-jupiter:5.9.0
